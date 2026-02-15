@@ -23,6 +23,16 @@ Upstream notices:
 - LICENSE: https://github.com/sbwml/luci-app-mosdns/blob/v5/LICENSE
 - README:  https://github.com/sbwml/luci-app-mosdns/blob/v5/README.md
 
+- Copies of these files are placed into the following package directories
+  for visibility and compliance clarity:
+
+  - luci-app-mosdns/
+  - mosdns/
+  - v2dat/
+
+- No modifications were made to the contents of these notice files.
+
+
 ---
 
 ## sbwml / v2ray-geodata
@@ -97,7 +107,9 @@ Upstream:
 Upstream notices:
 - README: https://github.com/sirpdboy/luci-app-netwizard/blob/main/README.md
 - LICENSE: Not provided in upstream repo (per current reference; license status unknown).
+- A local LICENSE-NOTICE.txt is included solely to document this status.
 
+- License terms for this package remain undefined by this repository and must be confirmed with the upstream author/repository.
 ---
 
 ## sbwml / packages_lang_golang

@@ -1,0 +1,2 @@
+Upstream repository does not provide a LICENSE file (as referenced during import).
+License status is unknown; please verify with upstream author/repository.

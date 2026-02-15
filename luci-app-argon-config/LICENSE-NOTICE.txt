@@ -1,0 +1,3 @@
+Upstream repository for this package does not provide a LICENSE file (as referenced during import).
+This directory includes a LICENSE copied from another repository by the same author (sbwml) as a reference only.
+License inheritance is NOT guaranteed; please verify the actual license from upstream.
