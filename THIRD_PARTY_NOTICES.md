@@ -107,7 +107,7 @@ Upstream:
 - Pinned commit: 94dd0f5793debfee007f0581509640c392de7188
 - Imported package:
   - `golang/`
-- Imported helper files (repo root):
+- Imported helper files (in golang/):
   - `golang-*.mk`, `golang-build.sh` (and other Go build helpers as included upstream)
 
 Purpose:
