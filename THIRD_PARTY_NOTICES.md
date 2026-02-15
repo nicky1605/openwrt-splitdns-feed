@@ -129,3 +129,17 @@ Purpose:
 Upstream notices:
 - (Use upstream repo root for license/notice if present.)
 
+
+---
+
+## Verification status
+
+This feed layout and the imported packages were validated on:
+
+- OpenWrt baseline: v24.10.5
+- Target: x86_64 (musl)
+- Build mode: single-package compile with `-j$(nproc)`
+
+Notes:
+- `mosdns` build requires the golang override described in `docs/golang-override.md`
+  (using `packages_lang_golang` pinned to commit `94dd0f5793debfee007f0581509640c392de7188`).
