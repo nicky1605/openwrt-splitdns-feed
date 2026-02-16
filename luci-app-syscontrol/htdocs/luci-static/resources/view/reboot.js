@@ -63,7 +63,7 @@ return view.extend({
             E('span', {}, [
                 _('© Dibuat oleh '),
                 E('a', { 
-                    'href': 'https://github.com/bobbyunknow', 
+                    'href': 'https://github.com/bobbyunknown', 
                     'target': '_blank',
                     'style': 'text-decoration: none;'
                 }, 'BobbyUnknown')
