@@ -1,0 +1,241 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: syscontrol\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-16 06:53+0000\n"
+"PO-Revision-Date: 2026-02-23 18:41+0800\n"
+"Last-Translator: Nicky Liu <nicky1605@gmail.com>\n"
+"Language-Team: Ncky Liu <nicky1605@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+
+#: htdocs/luci-static/resources/view/overview.js:58
+msgid "Total RAM:"
+msgstr "总内存："
+
+#: htdocs/luci-static/resources/view/overview.js:62
+msgid "Used RAM:"
+msgstr "已使用内存："
+
+#: htdocs/luci-static/resources/view/overview.js:66
+msgid "Cached RAM:"
+msgstr "内存缓存："
+
+#: htdocs/luci-static/resources/view/overview.js:70
+msgid "Free RAM:"
+msgstr "剩余内存："
+
+#: htdocs/luci-static/resources/view/overview.js:83
+msgid "RAM Status"
+msgstr "内存状态："
+
+#: htdocs/luci-static/resources/view/overview.js:89
+#: htdocs/luci-static/resources/view/config.js:84
+#: htdocs/luci-static/resources/view/shutdown.js:35
+#: htdocs/luci-static/resources/view/log.js:88
+#: htdocs/luci-static/resources/view/reboot.js:64
+msgid "© Dibuat oleh "
+msgstr ""
+
+#: htdocs/luci-static/resources/view/config.js:26
+msgid "RAM Release Schedule"
+msgstr "释放内存排程"
+
+#: htdocs/luci-static/resources/view/config.js:27
+msgid "Configure schedule for automatic RAM release."
+msgstr "配置自动释放内存的排程。"
+
+#: htdocs/luci-static/resources/view/config.js:29
+msgid "Schedule Settings"
+msgstr "排程设置"
+
+#: htdocs/luci-static/resources/view/config.js:33
+msgid "Enable"
+msgstr "启用"
+
+#: htdocs/luci-static/resources/view/config.js:34
+msgid "Enable automatic RAM release schedule"
+msgstr "启用自动释放内存排程"
+
+#: htdocs/luci-static/resources/view/config.js:44
+msgid "Service Status"
+msgstr "服务状态"
+
+#: htdocs/luci-static/resources/view/config.js:54
+msgid "Error checking service status: "
+msgstr "检查服务状态时出错："
+
+#: htdocs/luci-static/resources/view/config.js:59
+msgid "Time"
+msgstr "时间"
+
+#: htdocs/luci-static/resources/view/config.js:60
+msgid "Enter time for RAM release (24-hour format, e.g. 23:30)"
+msgstr "输入释放内存的时间（24小时制，例如23:30）"
+
+#: htdocs/luci-static/resources/view/config.js:64
+msgid "Invalid time format. Please use HH:MM (24-hour format)."
+msgstr "时间格式无效。请使用HH:MM（24小时格式）。"
+
+#: htdocs/luci-static/resources/view/config.js:69
+msgid "Days"
+msgstr "天数"
+
+#: htdocs/luci-static/resources/view/config.js:70
+msgid "Select days for RAM release"
+msgstr "选择释放内存的天数"
+
+#: htdocs/luci-static/resources/view/config.js:72
+msgid "Monday"
+msgstr "星期一"
+
+#: htdocs/luci-static/resources/view/config.js:73
+msgid "Tuesday"
+msgstr "星期二"
+
+#: htdocs/luci-static/resources/view/config.js:74
+msgid "Wednesday"
+msgstr "参考知识AI润色9/5000星期三"
+
+#: htdocs/luci-static/resources/view/config.js:75
+msgid "Thursday"
+msgstr "星期四"
+
+#: htdocs/luci-static/resources/view/config.js:76
+msgid "Friday"
+msgstr "星期五"
+
+#: htdocs/luci-static/resources/view/config.js:77
+msgid "Saturday"
+msgstr "星期六"
+
+#: htdocs/luci-static/resources/view/config.js:78
+msgid "Sunday"
+msgstr "星期天"
+
+#: htdocs/luci-static/resources/view/config.js:102
+msgid "Error loading configuration: "
+msgstr "加载配置时出错："
+
+#: htdocs/luci-static/resources/view/shutdown.js:23
+msgid "System shutdown"
+msgstr "系统关闭"
+
+#: htdocs/luci-static/resources/view/shutdown.js:25
+msgid "Shutting down the system will power off your device. Make sure all important processes are completed before proceeding."
+msgstr "关闭系统将使您的设备断电。请确保在继续操作之前，所有重要进程均已完成。"
+
+#: htdocs/luci-static/resources/view/shutdown.js:30
+msgid "Shutdown System"
+msgstr "关闭系统"
+
+#: htdocs/luci-static/resources/view/shutdown.js:47
+msgid "Confirm Shutdown"
+msgstr "确认关闭"
+
+#: htdocs/luci-static/resources/view/shutdown.js:48
+msgid "Are you absolutely sure you want to shut down the system?"
+msgstr "您确定要关闭系统吗？"
+
+#: htdocs/luci-static/resources/view/shutdown.js:49
+msgid "This will power off your device. All running processes will be stopped."
+msgstr "这将关闭您的设备。所有正在运行的进程都将停止。"
+
+#: htdocs/luci-static/resources/view/shutdown.js:54
+#: htdocs/luci-static/resources/view/reboot.js:87
+msgid "Cancel"
+msgstr "取消"
+
+#: htdocs/luci-static/resources/view/shutdown.js:60
+msgid "Shutting down..."
+msgstr "关机中..."
+
+#: htdocs/luci-static/resources/view/shutdown.js:61
+msgid "The system is shutting down. GoodBye :)..."
+msgstr "系统即将关闭。再见 :)..."
+
+#: htdocs/luci-static/resources/view/shutdown.js:67
+msgid "Shutdown"
+msgstr "关机"
+
+#: htdocs/luci-static/resources/view/log.js:28
+msgid "No log entries found"
+msgstr "未找到日志条目"
+
+#: htdocs/luci-static/resources/view/log.js:32
+msgid "Error reading log file or file is empty"
+msgstr "读取日志文件时出错或文件为空"
+
+#: htdocs/luci-static/resources/view/log.js:62
+msgid "RAM Release Log"
+msgstr "释放内存日志"
+
+#: htdocs/luci-static/resources/view/log.js:70
+msgid "Clearing..."
+msgstr "清除中..."
+
+#: htdocs/luci-static/resources/view/log.js:81
+#: htdocs/luci-static/resources/view/log.js:84
+msgid "Clear Log"
+msgstr "清除日志"
+
+#: htdocs/luci-static/resources/view/reboot.js:41
+msgid "System reboot"
+msgstr "重启系统"
+
+#: htdocs/luci-static/resources/view/reboot.js:42
+msgid "Reboots the operating system of your device"
+msgstr "重启设备的操作系统"
+
+#: htdocs/luci-static/resources/view/reboot.js:47
+msgid "Warning: There are unsaved changes that will get lost on reboot!"
+msgstr "警告：重启后未保存的更改将会丢失！"
+
+#: htdocs/luci-static/resources/view/reboot.js:55
+#: htdocs/luci-static/resources/view/reboot.js:78
+msgid "Normal Reboot"
+msgstr "正常重启"
+
+#: htdocs/luci-static/resources/view/reboot.js:60
+#: htdocs/luci-static/resources/view/reboot.js:78
+msgid "Force Reboot"
+msgstr "强制重启"
+
+#: htdocs/luci-static/resources/view/reboot.js:80
+msgid "Confirm Reboot"
+msgstr "确认重启"
+
+#: htdocs/luci-static/resources/view/reboot.js:81
+msgid "Are you absolutely sure you want to reboot the system?"
+msgstr "你确认要重启系统吗？"
+
+#: htdocs/luci-static/resources/view/reboot.js:82
+msgid "This will restart your device. All running processes will be stopped."
+msgstr "这将重新启动您的设备。所有正在运行的进程都将被停止。"
+
+#: htdocs/luci-static/resources/view/reboot.js:95
+msgid "The reboot command failed with code %d"
+msgstr "重启命令失败，代码为 %d"
+
+#: htdocs/luci-static/resources/view/reboot.js:99
+#: htdocs/luci-static/resources/view/reboot.js:113
+msgid "Rebooting…"
+msgstr "重启中..."
+
+#: htdocs/luci-static/resources/view/reboot.js:100
+msgid "Waiting for device..."
+msgstr "等待设备响应..."
+
+#: htdocs/luci-static/resources/view/reboot.js:115
+msgid "Device unreachable! Still waiting for device..."
+msgstr "设备无法连接！仍在等待设备响应..."
+
